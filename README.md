@@ -8,6 +8,8 @@ The main objective of this project is to develop a news application using Flutte
 - Responsive Design: Ensuring the application works seamlessly across various devices, including phones and tablets.
 - Error Handling: Implementing robust error handling mechanisms to manage API call failures and provide user feedback.
 
+#### [APK](https://drive.google.com/file/d/1WUuT-97GybD7hRQq_vAMYjbcECH5kfBv/view?usp=sharing)
+
 ## Setup Instructions
 
 Follow these steps to set up and run the project on your local machine:
